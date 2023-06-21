@@ -159,7 +159,7 @@ namespace BulkyBookWeb.Areas.Admin.Controllers
         }
         #endregion
 
-        #region Delete
+        #region Hide Delete
         //public IActionResult Delete(int? id)
         //{
         //    if (id == null || id == 0)
